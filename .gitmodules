@@ -1,0 +1,3 @@
+[submodule "Assets/Scripts/SlideshowTools"]
+	path = Assets/Scripts/SlideshowTools
+	url = https://github.com/rochester-rcl/unity-slideshow-tools.git

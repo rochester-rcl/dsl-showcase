@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MasterScene.unity
+    guid: ae4de6152b519453c8416e6c105c77c2
+  - enabled: 1
+    path: Assets/Scenes/MainTitle.unity
+    guid: 29f608edf47ec4edf8ca4b656118f73c
+  - enabled: 1
+    path: Assets/Scenes/WardTitle2.unity
+    guid: bde96d036a8e04db489d8feb898e3a40
+  - enabled: 1
+    path: Assets/Scenes/OwlScene2.unity
+    guid: b9b63973703c343c38ac1c5972a5897b
+  - enabled: 1
+    path: Assets/Scenes/TurtleScene.unity
+    guid: 4b0265c03eb484c458cefaa7581f1347
+  - enabled: 1
+    path: Assets/Scenes/SekuruTitle.unity
+    guid: 1ec419c353da046b581017bab0a2bb05
+  - enabled: 1
+    path: Assets/Scenes/SekuruScene.unity
+    guid: c013109bae17e411ab71599ea1a9d18d
+  - enabled: 1
+    path: Assets/Scenes/LenoxTitle.unity
+    guid: bdfd258fb1ef64feaba7ff4e70f2ec27
+  - enabled: 1
+    path: Assets/Scenes/LenoxScene.unity
+    guid: 81b9b89554c3b444d983decdb36f62b3
+  - enabled: 1
+    path: Assets/Scenes/ElminaTitle.unity
+    guid: bd2a3848a6825447eba352df628aa2e8
+  - enabled: 1
+    path: Assets/Scenes/ElminaScene.unity
+    guid: 792d60d2be4dc4613a175ba0e8f611fd
+  - enabled: 1
+    path: Assets/Scenes/JupiterTitle.unity
+    guid: f57eefa63e7e745cab070100c3369283
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/Scenes/TestScene.unity
+    guid: 2af4cb52b54d241eea9ff31dd4980cf1
+  m_configObjects: {}
