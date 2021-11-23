@@ -76,7 +76,7 @@ PlayerSettings:
   androidFullscreenMode: 1
   defaultIsNativeResolution: 1
   macRetinaSupport: 1
-  runInBackground: 1
+  runInBackground: 0
   captureSingleScreen: 0
   muteOtherAudioSources: 0
   Prepare IOS For Recording: 0
@@ -135,7 +135,10 @@ PlayerSettings:
     16:9: 1
     Others: 1
   bundleVersion: 0.1
-  preloadedAssets: []
+  preloadedAssets:
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 0f68880e9e0f1f56286d30417c8ecb3a, type: 2}
+  - {fileID: 1375849084634692871, guid: d9a7aad63e7b065d09eb9ca4f4835ca9, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -153,12 +156,12 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.DefaultCompany.DSLShowcase
+    Android: edu.studiox.showcase
   buildNumber:
     Standalone: 0
     iPhone: 0
     tvOS: 0
-  overrideDefaultApplicationIdentifier: 0
+  overrideDefaultApplicationIdentifier: 1
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 23
   AndroidTargetSdkVersion: 0
