@@ -35,9 +35,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ElminaTitle.unity
     guid: bd2a3848a6825447eba352df628aa2e8
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/ElminaScene.unity
     guid: 792d60d2be4dc4613a175ba0e8f611fd
+  - enabled: 1
+    path: Assets/Scenes/ElminaScene_Quest.unity
+    guid: 1b59d76ae60ab47669fbc737482fa7d8
   - enabled: 1
     path: Assets/Scenes/JupiterTitle.unity
     guid: f57eefa63e7e745cab070100c3369283
@@ -47,4 +50,8 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/TestScene.unity
     guid: 2af4cb52b54d241eea9ff31dd4980cf1
-  m_configObjects: {}
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 0f68880e9e0f1f56286d30417c8ecb3a,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d9a7aad63e7b065d09eb9ca4f4835ca9,
+      type: 2}
